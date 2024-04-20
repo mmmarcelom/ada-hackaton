@@ -130,6 +130,9 @@ Repositório no github oficial de envio [clique aqui](https://github.com/Ada-Emp
 
 Acesse nossa mesa de planejamento no [Miro](https://miro.com/welcomeonboard/eGdnbDJQdmJOUERybmJpR2VQMjk3bUU5dTFJVVF0bVFUMmhFMXRzVjRHTHowTTBzYVZWNGZxckhKSlVROG1VeHwzNDU4NzY0NTg1NDEwOTkyMTMwfDI=?share_link_id=331407019813).
 
+![image](https://github.com/mmmarcelom/ada-hackaton/assets/52570539/113c7da3-96c0-4efe-91ec-03bdf550a27f)
+
+
 ### ‍💻 Tecnologias Utilizadas
 
 **Back-end:**
