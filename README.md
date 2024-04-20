@@ -178,8 +178,8 @@ Feedback Chegando Pessoal!
 ⌨️ Qualidade técnica: 3,6
 🏁 Resultado final: 3,7
 
-**Feedbacks Empresa**  
-*Avanade*  
+### **Feedbacks Empresa**  
+#### [Avanade](#https://www.linkedin.com/company/avanade/)
 
 Avaliador 1:  
 > Realizaram boa apresentação e com didática, mostrando na prática as soluções que criaram. Todo o grupo participou quando as perguntas foram realizadas, conseguiram explicar e se expressar muito bem.
@@ -187,14 +187,14 @@ Avaliador 1:
 Avaliador 2:  
 > Parabéns! Apresentação impecável, gostei bastante da organização do projeto no miro e das tarefas e entregaveis! Importante terem focado na parte interna para depois ampliar o projeto, PPT muito bem feito também e com pontos que chamam a atenção para o projeto.
 
-*Uol*  
+#### [Uol](#https://www.linkedin.com/company/uol/)
 Avaliador 1:  
 > O grupo é bastante organizado! Adorei! Parabéns à todos pela entrega!
 
 Avaliador 2:  
 > Muito bom o projeto e apresentação! Parabéns!
 
-**Feedbacks Instrutor**  
+### **Feedbacks Instrutor**  
 "O projeto ficou muito bom, superando expectativas. No geral tanto a ideia quanto a execução ficaram excelentes, com poucos pontos de atenção. Uma sugestão seria que no middleware de verficação de nível de permissão, poderia ser usado uma factory que criaria com o nível de permissão adequado, não havendo necessidade de fazer 5 middlewares que fazem praticamente a mesma coisa. Sugestão de leitura: https://refactoring.guru/pt-br/design-patterns/factory-method
 Como próximos passos eu estudaria um pouco de SOLID e clean code, para melhorar manutenabilidade e escalabilidade do código. alguns padrões de projeto também seriam legais, como o factory mencionado acima. 
 Parabéns a todos."
