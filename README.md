@@ -187,9 +187,6 @@ Avaliador 1:
 Avaliador 2:  
 > Parabéns! Apresentação impecável, gostei bastante da organização do projeto no miro e das tarefas e entregaveis! Importante terem focado na parte interna para depois ampliar o projeto, PPT muito bem feito também e com pontos que chamam a atenção para o projeto.
 
-*Nestle*  
-> ---
-
 *Uol*  
 Avaliador 1:  
 > O grupo é bastante organizado! Adorei! Parabéns à todos pela entrega!
