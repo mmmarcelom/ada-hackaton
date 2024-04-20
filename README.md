@@ -14,6 +14,8 @@ Sumário
     - [‍💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
     - [⚙️ Funcionalidades](#️-funcionalidades)
     - [🔧 Instalação](#-instalação)
+  - [Resultado e Feedback da Banca avaliadora](#Resultado-e-Feedback-da-Banca-avaliadora)
+
 
 ## Introdução
 
@@ -163,3 +165,34 @@ Acesse nossa mesa de planejamento no [Miro](https://miro.com/welcomeonboard/eGdn
   5. Para entender as rotas, basta fazer download das collections do Insomnia que está raiz do projeto, ou acessando a rota com a documentação do Swagger no link abaixo.
 
   http://localhost:3000/api-docs
+
+## Resultado-e-Feedback-da-Banca-avaliadora
+
+Feedback Chegando Pessoal!
+---
+
+**Avaliação**
+🚀 Impacto e Resultado: 3,6
+🎨 Criatividade e inovação: 3,8
+🗣️ Apresentação: 3,8
+⌨️ Qualidade técnica: 3,6
+🏁 Resultado final: 3,7
+
+**Feedbacks Empresa**
+*Avanade*
+> Realizaram boa apresentação e com didática, mostrando na prática as soluções que criaram. Todo o grupo participou quando as perguntas foram realizadas, conseguiram explicar e se expressar muito bem.
+
+> Parabéns! Apresentação impecável, gostei bastante da organização do projeto no miro e das tarefas e entregaveis! Importante terem focado na parte interna para depois ampliar o projeto, PPT muito bem feito também e com pontos que chamam a atenção para o projeto.
+
+*Nestle*
+> ---
+
+*Uol*
+> O grupo é bastante organizado! Adorei! Parabéns à todos pela entrega!
+
+> Muito bom o projeto e apresentação! Parabéns!
+
+**Feedbacks Instrutor**
+"O projeto ficou muito bom, superando expectativas. No geral tanto a ideia quanto a execução ficaram excelentes, com poucos pontos de atenção. Uma sugestão seria que no middleware de verficação de nível de permissão, poderia ser usado uma factory que criaria com o nível de permissão adequado, não havendo necessidade de fazer 5 middlewares que fazem praticamente a mesma coisa. Sugestão de leitura: https://refactoring.guru/pt-br/design-patterns/factory-method
+Como próximos passos eu estudaria um pouco de SOLID e clean code, para melhorar manutenabilidade e escalabilidade do código. alguns padrões de projeto também seriam legais, como o factory mencionado acima. 
+Parabéns a todos."
